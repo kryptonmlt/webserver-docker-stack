@@ -7,3 +7,7 @@
 
 ## Note
 * currently src/html contains wordpres 5.3.2 as an example of a working site
+
+## How to Run
+* docker-compose build
+* docker-compose up
